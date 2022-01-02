@@ -1,0 +1,10 @@
+{
+  "port": 3004,
+  "watch": true,
+  "static": "./public",
+  "read-only": false,
+  "no-cors": false,
+  "no-gzip": false,
+  "routes": "./mock/routes.json",
+  "middlewares":"./mock/middlewares.js"
+}
